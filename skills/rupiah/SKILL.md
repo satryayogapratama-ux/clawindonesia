@@ -1,5 +1,13 @@
 # Rupiah - Indonesian Finance Helper Skill
 
+<!--
+  last_verified: 2026-04-27
+  effective_date: 2026-01-01
+  source_url: https://www.bi.go.id
+  review_schedule: yearly (rates/thresholds may change)
+  maintainer: satryayogapratama@gmail.com
+-->
+
 Currency conversion, zakat calculator, banking terminology, and financial rate information.
 
 ## Overview

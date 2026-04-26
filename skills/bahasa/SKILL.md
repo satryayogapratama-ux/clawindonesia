@@ -1,5 +1,13 @@
 # Bahasa - Bahasa Indonesia Language Helper Skill
 
+<!--
+  last_verified: 2026-04-27
+  effective_date: 2026-01-01
+  source_url: https://ejaan.kemdikbud.go.id
+  review_schedule: yearly (rates/thresholds may change)
+  maintainer: satryayogapratama@gmail.com
+-->
+
 Formal/informal language detection, translation between formal and casual Bahasa, EYD checking, and abbreviation guides.
 
 ## Overview

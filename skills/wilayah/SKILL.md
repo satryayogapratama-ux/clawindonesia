@@ -1,5 +1,13 @@
 # Wilayah - Indonesian Geography Helper Skill
 
+<!--
+  last_verified: 2026-04-27
+  effective_date: 2026-01-01
+  source_url: https://www.kemendagri.go.id
+  review_schedule: yearly (rates/thresholds may change)
+  maintainer: satryayogapratama@gmail.com
+-->
+
 Geographic and administrative information for Indonesia, including provinces, districts, timezones, postal codes, and address formatting.
 
 ## Overview

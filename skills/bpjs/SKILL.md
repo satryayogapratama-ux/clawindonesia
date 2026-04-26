@@ -1,5 +1,13 @@
 # BPJS - Indonesian Health Insurance Helper Skill
 
+<!--
+  last_verified: 2026-04-27
+  effective_date: 2026-01-01
+  source_url: https://www.bpjs-kesehatan.go.id / https://www.bpjs-ketenagakerjaan.go.id
+  review_schedule: yearly (rates/thresholds may change)
+  maintainer: satryayogapratama@gmail.com
+-->
+
 Calculate BPJS Kesehatan premiums, check membership status, and guide enrollment procedures.
 
 ## Overview

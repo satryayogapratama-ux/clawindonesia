@@ -1,5 +1,13 @@
 # Pajak - Indonesian Tax Helper Skill
 
+<!--
+  last_verified: 2026-04-27
+  effective_date: 2026-01-01
+  source_url: https://www.pajak.go.id
+  review_schedule: yearly (rates/thresholds may change)
+  maintainer: satryayogapratama@gmail.com
+-->
+
 Calculate taxes, explain deadlines, and guide Indonesian tax filing procedures.
 
 ## Overview
