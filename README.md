@@ -1,5 +1,9 @@
 # ClawIndonesia - Indonesian Skill Pack for OpenClaw
 
+> **Status: Production · Self-hosted** — Actively used in production by the author. Open-source and available for deployment.
+
+![Status](https://img.shields.io/badge/Status-Production%20Self--hosted-brightgreen.svg)
+
 A comprehensive collection of OpenClaw skills specifically designed for Indonesian users and context. Covers taxation, healthcare, language, finance, and geography.
 
 ## Overview
